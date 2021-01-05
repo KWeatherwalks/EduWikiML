@@ -42,3 +42,13 @@ Experience,EXP2,I consult Wikipedia for other academic related issues
 Experience,EXP3,I consult Wikipedia for personal issues
 Experience,EXP4,"I contribute to Wikipedia (editions, revisions, articles improvement...)"
 Experience,EXP5,I use wikis to work with my students
+Demographic,AGE,Age of Professor
+Demographic,GENDER,Male or Female
+Demographic,DOMAIN,"Area of Expertise: Arts & Humanities; Sciences; Health Sciences; Engineering & Architecture; Law & Politics; Social Sciences"
+Demographic,PHD,Has PhD or Not
+Demographic,YEARSEXP,Years of university teaching experience
+Demographic,UNIVERSITY,"Universitat Oberta de Catalunya (UOC) or Universitat Pompeu Fabra (UPF)."
+Demographic,UOC_POSITION,"Professor; Associate; Assistant; Lecturer; Instructor; Adjunct"
+Demographic,OTHER,"For part time members, states if main job in another university"
+Demographic,OTHER_POSITION,"People who work as part time in another university and UPF members"
+Demographic,USERWIKI,"Whether a registered Wikipedia user or not"
