@@ -7,7 +7,6 @@ Using your favorite IPython Notebook kernel,
 2. Run either LogisticRegressionModel.ipynb or RandomForestClassifier.ipynb
 
 ## Features
-The features include demographic data and responses to survey statements.
 
 AGE: numeric  
 GENDER: 0=Male; 1=Female  
